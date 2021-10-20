@@ -14,6 +14,7 @@
 		10B9969E2720084E0057323A /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B9969D2720084E0057323A /* CardSelectionVC.swift */; };
 		10B996A027200BAA0057323A /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B9969F27200BAA0057323A /* CWButton.swift */; };
 		10B996A227201A090057323A /* RulesCV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B996A127201A090057323A /* RulesCV.swift */; };
+		10B996A427206D110057323A /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B996A327206D110057323A /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		10B9969D2720084E0057323A /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		10B9969F27200BAA0057323A /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 		10B996A127201A090057323A /* RulesCV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesCV.swift; sourceTree = "<group>"; };
+		10B996A327206D110057323A /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				10B99689271FF1740057323A /* AppDelegate.swift */,
 				10B9968B271FF1740057323A /* SceneDelegate.swift */,
 				10B996A127201A090057323A /* RulesCV.swift */,
+				10B996A327206D110057323A /* Card.swift */,
 				10B9969F27200BAA0057323A /* CWButton.swift */,
 				10B9969D2720084E0057323A /* CardSelectionVC.swift */,
 				10B99692271FF1750057323A /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10B9968A271FF1740057323A /* AppDelegate.swift in Sources */,
+				10B996A427206D110057323A /* Card.swift in Sources */,
 				10B996A227201A090057323A /* RulesCV.swift in Sources */,
 				10B9968C271FF1740057323A /* SceneDelegate.swift in Sources */,
 				10B9969E2720084E0057323A /* CardSelectionVC.swift in Sources */,
