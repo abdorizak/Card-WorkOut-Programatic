@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CardSelectionVC.swift
 //  CardWorkOutProgramatic
 //
 //  Created by Abdirizak Hassan on 10/20/21.
@@ -7,13 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CardSelectionVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        view.backgroundColor = .brown
     }
 
-
 }
-
